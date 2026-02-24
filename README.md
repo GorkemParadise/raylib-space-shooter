@@ -32,7 +32,7 @@ A beginner-friendly **2D space shooter game** built with [raylib](https://www.ra
 | Enemy | Shape | Speed | HP | Points |
 |-------|-------|-------|----|--------|
 | Normal | Red square | Medium | 1 | 100 |
-| Fast | Yellow triangle | High | 1 | 150 |
+| Fast | Pink triangle | High | 1 | 150 |
 | Strong | Purple hexagon | Low | 3 | 300 |
 
 - Difficulty scales automatically every 30 seconds
