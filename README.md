@@ -68,7 +68,7 @@ A beginner-friendly **2D space shooter game** built with [raylib](https://www.ra
 ```bash
 brew install pkgconfig
 brew reinstall raylib
-git clone https://github.com/gorkemparadise/raylib-space-shooter.git
+git clone https://github.com/gorkemergune/raylib-space-shooter.git
 cd raylib-space-shooter
 eval cc main.c $(pkg-config --libs --cflags raylib) -o main
 ./main
